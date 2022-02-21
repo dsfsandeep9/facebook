@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hiiiiiiiiiiiii
+=======
+hiiiiiiiiiiiii
+
+How are you
+>>>>>>> stage
